@@ -5,7 +5,7 @@
 - The
   [**Public Roadmap project board**](https://github.com/orgs/FedRAMP/projects/25/views/1)
   shows a traditional roadmap view of these activities grouped by major
-  initiative over time.
+  initiative over time.@
 
 - Updates after each sprint are also available in
   [**PROGRESS.md**](PROGRESS.md).
